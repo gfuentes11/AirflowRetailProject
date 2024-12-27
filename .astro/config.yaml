@@ -1,0 +1,4 @@
+postgres:
+    port: "5434"
+project:
+    name: airflow-retail-project
