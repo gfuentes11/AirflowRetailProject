@@ -9,4 +9,5 @@ airflow-webserver.pid
 webserver_config.py
 airflow.cfg
 airflow.db
-AirflowRetailProject/include/gcp/
+include/gcp/serviceAccount.json
+include/soda/configuration.yml
