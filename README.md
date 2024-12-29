@@ -17,6 +17,24 @@ The pipeline processes a retail dataset by:
 
 ---
 
+## Visualizations
+
+This project includes the following visualizations to represent the processed data:
+
+### 1. Retail Dashboard
+![Retail Dashboard](visuals/Retail%20Dashboard.png)
+
+### 2. Primary Markets
+![Primary Markets](visuals/Primary%20Markets.png)
+
+### 3. Top 10 Products by Quantity Sold
+![Top 10 Products by Quantity Sold](visuals/Top%2010%20Products%20by%20Quanity%20Sold.png)
+
+### 4. Total Revenue Per Month
+![Total Revenue Per Month](visuals/Total%20Rev%20Per%20Month.png)
+
+---
+
 ## Project Organization
 
 
