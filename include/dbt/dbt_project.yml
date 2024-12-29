@@ -1,0 +1,9 @@
+name: 'retail'
+version: '1.0'  # Add version of the project
+config-version: 2  # Ensure the config version is set to 2
+
+profile: 'retail'
+
+models:
+  retail:
+    materialized: table
