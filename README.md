@@ -61,7 +61,7 @@ The pipeline processes a retail dataset by:
    - Inspect **Metabase** dashboards for generated reports.
    - Review **Soda Cloud** for data quality reports.
 
-# Note: I did not attach service account and other downloads those should be added once you download the astro cli and run astro dev start when getting project started. 
+> **Note**: I did not attach service account and other downloads those should be added once you download the astro cli and run astro dev start when getting project started. 
 
 ---
 
